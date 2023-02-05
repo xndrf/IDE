@@ -12,4 +12,3 @@ def attack(char_name, char_class):
             f'{5 + randint (-3, -1)}')
     
 def defence (char_name, char_class):
-    
